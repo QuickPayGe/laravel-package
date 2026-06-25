@@ -2,7 +2,7 @@
 
 Laravel integration package for the [Quickpay.ge](https://quickpay.ge) payment gateway.
 
-Provides a ServiceProvider, Facade, config publishing, webhook signature middleware, Laravel Events, and a Blade component. Built on top of [quickpay/php-sdk](https://github.com/toka7450/quickpay.ge/tree/main/php-sdk).
+Provides a ServiceProvider, Facade, config publishing, webhook signature middleware, Laravel Events, and a Blade component. Built on top of [quickpay/php-sdk](https://github.com/QuickPayGe/php-sdk).
 
 ## Requirements
 
