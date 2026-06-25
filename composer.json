@@ -4,6 +4,11 @@
     "type": "library",
     "license": "MIT",
     "keywords": ["quickpay", "payment", "georgia", "laravel", "sdk"],
+    "homepage": "https://github.com/QuickPayGe/laravel-package",
+    "support": {
+        "source": "https://github.com/QuickPayGe/laravel-package",
+        "issues": "https://github.com/QuickPayGe/laravel-package/issues"
+    },
     "require": {
         "php": "^8.2",
         "quickpay/php-sdk": "^1.0",
