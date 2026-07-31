@@ -1,5 +1,5 @@
 {
-    "name": "quickpay/laravel",
+    "name": "quickpayge/laravel",
     "description": "Laravel integration package for the Quickpay.ge payment gateway",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     },
     "require": {
         "php": "^8.2",
-        "quickpay/php-sdk": "^1.0",
+        "quickpayge/php-sdk": "^1.0",
         "laravel/framework": "^11.0||^12.0"
     },
     "require-dev": {
